@@ -150,3 +150,4 @@ with alert_box:
         st.success("✅ All systems nominal. No anomalies detected.")
 
 st.caption(f"Last updated: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
+
